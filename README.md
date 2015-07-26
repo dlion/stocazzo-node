@@ -11,7 +11,7 @@ A simple ultra mega magical wrapper to use [http://stocazzo.io](http://stocazzo.
 * http://dlion.it
 
 ## Thanks
-Thanks to [Alessio](https://github.com/dottorblaster) for wrote an epic [Stocazzo As A Service](https://github.com/dottorblaster/stocazzo)
+Thanks to [Alessio](https://github.com/dottorblaster) for writing an epic [Stocazzo As A Service](https://github.com/dottorblaster/stocazzo)
 
 ## LICENSE
 Srsly ?
