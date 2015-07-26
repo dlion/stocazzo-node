@@ -1,0 +1,29 @@
+{
+  "name": "stocazzo-node",
+  "version": "1.0.0",
+  "description": "Wrapper for stocazzo.io API",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.60.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlion/stocazzo-node.git"
+  },
+  "keywords": [
+    "stocazzo",
+    "suca",
+    "chi",
+    "cosa"
+  ],
+  "author": "Domenico \"DLion\" Luciani",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dlion/stocazzo-node/issues"
+  },
+  "homepage": "https://github.com/dlion/stocazzo-node#readme"
+}
