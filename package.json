@@ -1,6 +1,6 @@
 {
   "name": "stocazzo-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapper for stocazzo.io API",
   "main": "index.js",
   "dependencies": {
